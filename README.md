@@ -30,6 +30,8 @@ flake8-quotes
 flake8-comprehensions 
 mccabe 
 mypy
+isort
+pre-commit
 ```
 
 **Python 2 image**
@@ -44,6 +46,8 @@ flake8-commas
 flake8-quotes
 flake8-comprehensions
 mccabe
+isort
+pre-commit
 ```
 
 # License

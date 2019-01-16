@@ -12,4 +12,6 @@ RUN pip install \
     flake8-quotes \
     flake8-comprehensions \
     mccabe \
-    mypy
+    mypy \
+    isort \
+    pre-commit

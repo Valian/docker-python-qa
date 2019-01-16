@@ -10,4 +10,6 @@ RUN pip install \
     flake8-commas \
     flake8-quotes \
     flake8-comprehensions \
-    mccabe
+    mccabe \
+    isort \
+    pre-commit
